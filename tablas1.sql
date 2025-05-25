@@ -38,7 +38,7 @@ CREATE TABLE Persona (
 
 CREATE TABLE Estudiante (
     id_persona INT PRIMARY KEY REFERENCES Persona(id_persona),
-    antecedente_DGTCI VARCHAR(100),
+    antecedente_DGTIC VARCHAR(100),
     carrera VARCHAR(100),
     cvu CONSTRAINT chk_cvu CHECK (cvu ~ '^[0-9]+$'),
     escuela VARCHAR(100),
@@ -189,3 +189,23 @@ CREATE TABLE Capacitacion (
     id_becario INT REFERENCES Becario(id_persona),
     PRIMARY KEY(id_capacitacion, id_becario)
 );
+
+-- Función que verifica el número de contactos
+CREATE OR REPLACE FUNCTION validar_max_contactos()
+RETURNS TRIGGER AS $$
+BEGIN
+    IF (
+        SELECT COUNT(*) FROM Contacto_Emergencia
+        WHERE id_persona = NEW.id_persona
+    ) >= 2 THEN
+        RAISE EXCEPTION 'Un estudiante solo puede tener como máximo 2 contactos de emergencia';
+    END IF;
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+-- Trigger que llama a la función antes del INSERT
+CREATE TRIGGER trg_validar_max_contactos
+BEFORE INSERT ON Contacto_Emergencia
+FOR EACH ROW
+EXECUTE FUNCTION validar_max_contactos();
