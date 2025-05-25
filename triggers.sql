@@ -1,3 +1,6 @@
+--=================================
+--Trigger 1 
+--=================================
 CREATE OR REPLACE FUNCTION validar_persona_honorario()
 RETURNS TRIGGER AS $$
 DECLARE
@@ -29,3 +32,32 @@ CREATE TRIGGER trg_validar_honorario
 BEFORE INSERT ON Honorario
 FOR EACH ROW
 EXECUTE FUNCTION validar_persona_honorario();
+
+
+--=================================
+--Trigger 2
+--=================================
+CREATE OR REPLACE FUNCTION validar_tecnico_academico()
+RETURNS TRIGGER AS $$
+DECLARE
+    honorario_activo BOOLEAN;
+BEGIN
+    -- Verificar si la persona está activa como honorario
+    SELECT TRUE INTO honorario_activo
+    FROM Honorario
+    WHERE id_persona = NEW.id_persona
+      AND (fecha_fin IS NULL OR fecha_fin > CURRENT_DATE);
+
+    -- Si está activo, lanzar error
+    IF honorario_activo IS TRUE THEN
+        RAISE EXCEPTION 'La persona no puede registrarse como TÉCNICO ACADÉMICO si está activa como PERSONAL DE HONORARIOS.';
+    END IF;
+
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER trg_validar_tecnico_academico
+BEFORE INSERT ON Tecnico_Academico
+FOR EACH ROW
+EXECUTE FUNCTION validar_tecnico_academico();
