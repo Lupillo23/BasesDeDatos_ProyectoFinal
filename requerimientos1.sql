@@ -66,9 +66,3 @@ BEFORE INSERT OR UPDATE ON Honorario
 FOR EACH ROW
 EXECUTE FUNCTION validar_honorario_sin_beca();
 
-
-
--- Permitir ejecución de procedimientos solo a admin y operador
-GRANT EXECUTE ON PROCEDURE finalizar_beca_contratar_honorario TO operador;
-GRANT EXECUTE ON PROCEDURE finalizar_honorario_contratar_tecnico TO operador;
-
