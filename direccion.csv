@@ -1,0 +1,501 @@
+id_direccion,no_ext,clave_localidad,alcaldia,no_int,clave_municipio,calle,colonia,cp
+00001,476,14762,Iztapalapa,26,52915,Privada Nayarit,Centro,83606-7983
+00002,188,82159,Coyoacán,27,37585,Periférico Aguascalientes,Del Valle,71738
+00003,57,27425,Iztapalapa,10,81802,Calle Guinea Bissau,Narvarte,01691
+00004,544,21542,Benito Juárez,1,54071,Circunvalación Palomino,Condesa,70683-0506
+00005,92,49974,Coyoacán,12,96829,Viaducto Sonora,Centro,38392
+00006,802,44377,Miguel Hidalgo,6,48262,Avenida Haití,Narvarte,50813
+00007,876,90881,Miguel Hidalgo,10,13449,Calzada Norte Torres,Condesa,72179
+00008,820,70658,Benito Juárez,50,38945,Avenida Querétaro,Centro,99252
+00009,751,55483,Coyoacán,4,48616,Ampliación Riojas,Condesa,17363-7481
+00010,291,67850,Benito Juárez,48,12156,Calzada Norte Menéndez,Narvarte,47841-7115
+00011,441,74033,Coyoacán,11,90606,Privada Norte Camacho,Roma Norte,98176-2643
+00012,826,64465,Benito Juárez,50,63271,Andador China,Roma Norte,47988
+00013,849,27858,Benito Juárez,6,67888,Callejón Vázquez,Narvarte,76369
+00014,298,35045,Miguel Hidalgo,20,13873,Retorno Michoacán de Ocampo,Roma Norte,38099
+00015,110,77958,Iztapalapa,13,96786,Callejón Nuevo León,Condesa,32961-9153
+00016,743,33349,Coyoacán,8,59980,Pasaje República Democrática Popular Lao,Narvarte,19546-6745
+00017,165,88120,Coyoacán,18,91350,Avenida Gallardo,Condesa,42800
+00018,147,89014,Benito Juárez,41,26866,Eje vial Jaimes,Centro,89280
+00019,749,82490,Coyoacán,22,43605,Peatonal Malasia,Del Valle,34330
+00020,520,43128,Coyoacán,50,85044,Calle Cuellar,Del Valle,15371-4715
+00021,542,78943,Benito Juárez,20,45480,Avenida Indonesia,Centro,23837-8865
+00022,897,96811,Cuauhtémoc,5,36923,Calzada Henríquez,Condesa,35015-8831
+00023,857,63351,Benito Juárez,44,58027,Circuito Norte Gallardo,Centro,79198
+00024,871,40252,Coyoacán,7,80007,Avenida Baja California Sur,Roma Norte,03606-4680
+00025,941,30626,Coyoacán,28,28570,Avenida Posada,Centro,95320
+00026,873,12722,Iztapalapa,34,12975,Retorno Nauru,Roma Norte,90494
+00027,944,98370,Coyoacán,12,28597,Callejón Sur Dávila,Roma Norte,91754
+00028,260,58343,Miguel Hidalgo,37,30256,Avenida Sinaloa,Roma Norte,85703
+00029,700,11810,Benito Juárez,28,53744,Cerrada Lerma,Narvarte,00562
+00030,970,97908,Iztapalapa,40,32999,Circunvalación Sur Regalado,Del Valle,32980
+00031,39,57754,Benito Juárez,37,87307,Circunvalación Togo,Roma Norte,45422
+00032,985,48919,Cuauhtémoc,28,46801,Cerrada Norte Padilla,Centro,44476-7623
+00033,985,10869,Cuauhtémoc,24,69562,Boulevard Orta,Del Valle,58994-0882
+00034,982,90026,Coyoacán,30,85733,Continuación Kazajstán,Centro,37322-7250
+00035,885,10568,Benito Juárez,1,20025,Boulevard Islandia,Condesa,12664-9497
+00036,244,71573,Coyoacán,29,87181,Andador Norte Cardenas,Centro,77481
+00037,583,32316,Miguel Hidalgo,49,75938,Corredor Sonora,Roma Norte,27053
+00038,199,35765,Benito Juárez,39,98132,Corredor Ruelas,Roma Norte,74265
+00039,314,31300,Iztapalapa,40,58460,Cerrada México,Condesa,19780
+00040,146,64738,Cuauhtémoc,29,49693,Continuación Aguascalientes,Del Valle,05550
+00041,179,93513,Iztapalapa,46,82734,Corredor Cuba,Centro,90936-5219
+00042,462,76447,Benito Juárez,36,80445,Peatonal Briseño,Centro,06831
+00043,799,11171,Iztapalapa,37,77987,Andador Coahuila de Zaragoza,Roma Norte,98953
+00044,553,78009,Cuauhtémoc,13,23132,Ampliación Tlaxcala,Del Valle,53503-0241
+00045,64,15483,Coyoacán,30,14969,Avenida Oaxaca,Narvarte,67710
+00046,230,77441,Cuauhtémoc,28,17948,Avenida Barragán,Centro,61492
+00047,905,98970,Coyoacán,35,15182,Continuación Sur Cardenas,Condesa,32826-2511
+00048,714,33323,Benito Juárez,8,58994,Peatonal Seychelles,Roma Norte,47478-9281
+00049,483,65404,Iztapalapa,38,57272,Eje vial Norte Garrido,Roma Norte,30940
+00050,190,13261,Miguel Hidalgo,23,70802,Diagonal México,Centro,21894
+00051,344,88071,Benito Juárez,29,88174,Ampliación Camboya,Roma Norte,94229-0427
+00052,273,62622,Cuauhtémoc,29,52973,Circuito Lesotho,Condesa,01844
+00053,883,28099,Miguel Hidalgo,6,94503,Ampliación Sur Pacheco,Centro,58594
+00054,808,81505,Coyoacán,1,36210,Pasaje Cazares,Centro,42395
+00055,759,59516,Coyoacán,19,50377,Privada Coahuila de Zaragoza,Roma Norte,19619
+00056,932,33057,Coyoacán,42,84122,Calzada Namibia,Condesa,37068
+00057,6,50126,Benito Juárez,19,66331,Calzada Sur Sepúlveda,Narvarte,44703-3939
+00058,477,79060,Miguel Hidalgo,9,54137,Retorno Norte Vergara,Centro,37532
+00059,979,92747,Miguel Hidalgo,13,46078,Pasaje Sur Garrido,Del Valle,16110
+00060,595,57474,Miguel Hidalgo,37,60164,Eje vial Valdivia,Narvarte,54605-2852
+00061,378,62319,Cuauhtémoc,38,41865,Eje vial Baja California Sur,Narvarte,16957-7910
+00062,300,98934,Coyoacán,44,82794,Circunvalación Francia,Condesa,20198
+00063,470,60758,Cuauhtémoc,29,98730,Ampliación Sur Apodaca,Narvarte,85543
+00064,374,79053,Coyoacán,18,35546,Ampliación Zacatecas,Centro,92949
+00065,237,90734,Coyoacán,49,37796,Privada Vela,Roma Norte,15759
+00066,672,33573,Iztapalapa,39,16336,Diagonal México,Del Valle,58894-9273
+00067,606,42443,Benito Juárez,50,40016,Diagonal Tlaxcala,Centro,70122-0316
+00068,679,84212,Cuauhtémoc,27,97824,Viaducto Norte Rodríguez,Del Valle,01708
+00069,453,95628,Coyoacán,11,91289,Diagonal Frías,Del Valle,35460
+00070,957,26967,Benito Juárez,14,59737,Corredor Morelos,Narvarte,08804
+00071,534,16218,Cuauhtémoc,32,36556,Circunvalación Durango,Del Valle,44182
+00072,730,41140,Cuauhtémoc,38,15690,Circuito Norte Munguía,Condesa,65002
+00073,91,68840,Iztapalapa,23,75820,Eje vial Villareal,Centro,35487-1389
+00074,799,55113,Miguel Hidalgo,14,22322,Pasaje Baja California,Narvarte,37700
+00075,31,31710,Benito Juárez,29,16189,Boulevard Alcaraz,Roma Norte,80389
+00076,191,52140,Miguel Hidalgo,44,65268,Retorno Trinidad y Tabago,Narvarte,92358
+00077,169,21719,Coyoacán,44,50625,Retorno Egipto,Roma Norte,13660-3756
+00078,129,88485,Benito Juárez,40,81049,Corredor Norte Bañuelos,Roma Norte,65094-2332
+00079,897,79714,Benito Juárez,9,89083,Andador Israel,Centro,22866-5934
+00080,790,66293,Iztapalapa,36,22876,Pasaje Norte Ríos,Centro,19042
+00081,626,84437,Benito Juárez,41,15897,Boulevard Lozano,Condesa,92019
+00082,71,64839,Miguel Hidalgo,36,58452,Corredor Coahuila de Zaragoza,Del Valle,13173
+00083,299,70914,Benito Juárez,39,86935,Cerrada Sur Saavedra,Centro,88468
+00084,267,77503,Benito Juárez,24,61185,Prolongación Namibia,Narvarte,50379
+00085,468,44324,Coyoacán,18,38158,Peatonal Briones,Roma Norte,29142-1642
+00086,691,68470,Benito Juárez,10,16150,Periférico Pelayo,Del Valle,01666
+00087,805,14343,Coyoacán,31,45357,Andador Sur del Valle,Del Valle,99148
+00088,401,64783,Iztapalapa,7,43802,Periférico Sur Ramos,Centro,83186-8701
+00089,227,55566,Coyoacán,3,46520,Pasaje Rwanda,Roma Norte,30034-3652
+00090,712,92234,Cuauhtémoc,44,25570,Boulevard Gaitán,Del Valle,95661
+00091,553,17945,Iztapalapa,12,36442,Privada Bolivia,Centro,11263
+00092,370,86842,Cuauhtémoc,26,75132,Ampliación Botello,Centro,60876
+00093,388,37660,Cuauhtémoc,11,21162,Ampliación México,Centro,40472
+00094,51,39236,Cuauhtémoc,42,71351,Continuación Baja California Sur,Del Valle,64599-5112
+00095,560,89251,Iztapalapa,14,63468,Pasaje República Dominicana,Del Valle,84018
+00096,984,88921,Miguel Hidalgo,45,70066,Callejón Baja California Sur,Roma Norte,94048
+00097,97,69098,Benito Juárez,26,91902,Calle Namibia,Centro,99990-6019
+00098,173,96274,Cuauhtémoc,23,90748,Viaducto Tailandia,Condesa,43025
+00099,877,82532,Miguel Hidalgo,18,24075,Peatonal Sur Chávez,Centro,20405
+00100,215,27339,Benito Juárez,30,35885,Circunvalación Aguascalientes,Centro,42539-3877
+00101,782,25051,Cuauhtémoc,4,35836,Privada Norte Ocasio,Condesa,17251-2903
+00102,460,72175,Iztapalapa,24,40046,Calzada Sur Aponte,Narvarte,20117
+00103,844,60852,Iztapalapa,11,11668,Cerrada Mojica,Del Valle,13329-4204
+00104,413,26010,Cuauhtémoc,14,63963,Boulevard Sur Ramos,Roma Norte,47164
+00105,636,89798,Cuauhtémoc,29,85807,Ampliación Chile,Centro,85844
+00106,730,46566,Iztapalapa,50,61311,Eje vial Vanegas,Condesa,91890-9739
+00107,11,51208,Iztapalapa,28,91307,Prolongación Padrón,Centro,07066-2994
+00108,868,28945,Benito Juárez,38,14155,Andador Sri Lanka,Condesa,70743
+00109,952,35312,Benito Juárez,49,68782,Avenida Pabón,Centro,00979-7263
+00110,158,77394,Miguel Hidalgo,36,84229,Ampliación Sur Brito,Roma Norte,96798
+00111,297,68337,Miguel Hidalgo,25,54207,Viaducto Sur Sierra,Condesa,36335-0242
+00112,81,51996,Benito Juárez,9,91976,Calzada Norte Alarcón,Roma Norte,44309-8215
+00113,318,58017,Iztapalapa,20,83886,Boulevard Ybarra,Roma Norte,59150-5304
+00114,46,10116,Cuauhtémoc,29,26714,Peatonal Norte Bétancourt,Narvarte,65219
+00115,914,70306,Benito Juárez,46,69972,Calle Morelos,Del Valle,62573-9386
+00116,910,58930,Coyoacán,6,76061,Diagonal Países Bajos,Roma Norte,44999-1724
+00117,437,36316,Benito Juárez,26,37204,Prolongación Sur Portillo,Condesa,48497
+00118,6,88808,Iztapalapa,1,85649,Periférico Sur Gonzales,Del Valle,38388-8435
+00119,944,20680,Benito Juárez,24,58484,Cerrada Limón,Del Valle,84739-4987
+00120,642,65500,Cuauhtémoc,6,87188,Eje vial Chihuahua,Centro,11755-9347
+00121,156,91163,Miguel Hidalgo,41,22482,Privada Alejandro,Condesa,73375
+00122,107,32739,Cuauhtémoc,29,30009,Continuación República de Moldova,Narvarte,58727
+00123,146,40535,Iztapalapa,12,70939,Privada Norte Baca,Roma Norte,33705-1603
+00124,321,46058,Benito Juárez,3,99411,Calle Filipinas,Narvarte,25245-1707
+00125,934,34877,Coyoacán,9,72961,Prolongación Sur Montenegro,Centro,86173
+00126,271,56424,Iztapalapa,46,18270,Andador Norte Vanegas,Centro,33622
+00127,327,31740,Benito Juárez,15,53485,Viaducto Baja California,Condesa,33681
+00128,236,85948,Cuauhtémoc,24,29028,Pasaje Palomino,Centro,87700
+00129,343,82171,Miguel Hidalgo,20,54520,Diagonal Sur Urrutia,Condesa,39549-0747
+00130,151,78640,Iztapalapa,25,27660,Viaducto Norte Alfaro,Narvarte,36349-0870
+00131,278,56105,Miguel Hidalgo,40,37467,Periférico Treviño,Narvarte,51820
+00132,664,38748,Benito Juárez,20,38259,Privada Sur Alejandro,Del Valle,38487
+00133,21,65162,Benito Juárez,30,39098,Diagonal Kenya,Del Valle,57881-6827
+00134,943,45737,Miguel Hidalgo,10,42812,Circuito Nuevo León,Roma Norte,88137
+00135,946,17683,Cuauhtémoc,3,88521,Calle Austria,Narvarte,83683
+00136,718,87048,Coyoacán,8,91682,Andador Tafoya,Del Valle,97688-8344
+00137,337,41990,Miguel Hidalgo,15,11118,Periférico Hungría,Del Valle,24660
+00138,732,81865,Miguel Hidalgo,49,33037,Diagonal Líbano,Condesa,79578-0923
+00139,745,71141,Benito Juárez,31,49984,Eje vial Raya,Centro,91383-6357
+00140,566,12976,Miguel Hidalgo,45,77852,Circuito Sur Montañez,Roma Norte,12028
+00141,480,89879,Iztapalapa,17,81994,Eje vial Bétancourt,Centro,76245-2474
+00142,331,36321,Benito Juárez,2,52858,Peatonal Omán,Narvarte,23469
+00143,436,77035,Iztapalapa,49,10925,Pasaje Gabón,Del Valle,56659-2112
+00144,919,31205,Miguel Hidalgo,39,70794,Retorno Camerún,Narvarte,28553-3855
+00145,538,87849,Iztapalapa,3,16770,Corredor Camarillo,Roma Norte,02646
+00146,76,53910,Cuauhtémoc,9,69829,Calzada Sur Aragón,Narvarte,64714-2638
+00147,777,91441,Miguel Hidalgo,2,90400,Diagonal Morelos,Narvarte,43136-2647
+00148,172,56479,Iztapalapa,29,97997,Cerrada Nuevo León,Condesa,96590-9030
+00149,227,84222,Miguel Hidalgo,19,35362,Avenida Casas,Del Valle,26615
+00150,973,87152,Cuauhtémoc,3,11325,Circuito Panamá,Roma Norte,78167
+00151,405,48030,Cuauhtémoc,30,59995,Circuito Norte Salgado,Centro,27587-9595
+00152,923,38199,Coyoacán,40,71110,Calzada Beltrán,Centro,82286
+00153,954,87619,Coyoacán,32,69685,Calle Perea,Condesa,76808
+00154,732,73835,Iztapalapa,46,55175,Eje vial Norte Alcaraz,Condesa,19944
+00155,923,75771,Coyoacán,47,26787,Callejón Sur Sotelo,Centro,87162-2502
+00156,373,66772,Benito Juárez,18,38871,Periférico Bolivia,Centro,14440-9262
+00157,119,76959,Benito Juárez,16,76797,Cerrada Sur Ozuna,Del Valle,33382
+00158,367,75648,Cuauhtémoc,15,21451,Peatonal Raya,Condesa,83558
+00159,552,70479,Coyoacán,46,61661,Calzada Sur Cantú,Roma Norte,52160
+00160,938,38586,Iztapalapa,17,67509,Diagonal Blanco,Condesa,09548-9267
+00161,361,17321,Benito Juárez,19,89415,Corredor Lugo,Condesa,88147-8961
+00162,869,65266,Miguel Hidalgo,14,42098,Avenida Cabrera,Narvarte,69525
+00163,655,12462,Coyoacán,13,54191,Callejón Negrete,Narvarte,34784-2946
+00164,73,45350,Iztapalapa,42,95920,Pasaje Cortés,Del Valle,75765
+00165,194,54922,Benito Juárez,15,50590,Corredor Sur Valencia,Condesa,42074-9503
+00166,901,95125,Coyoacán,16,89159,Circunvalación Norte González,Del Valle,83345
+00167,574,61687,Benito Juárez,5,47728,Andador Puebla,Roma Norte,77276-0036
+00168,165,59325,Miguel Hidalgo,8,19130,Andador Pulido,Centro,65301
+00169,356,91761,Coyoacán,32,94242,Prolongación Veracruz de Ignacio de la Llave,Roma Norte,62354-3021
+00170,264,74837,Iztapalapa,24,18494,Retorno Somalia,Roma Norte,66383
+00171,829,46770,Cuauhtémoc,24,15332,Calle Irlanda,Narvarte,39212
+00172,441,92018,Miguel Hidalgo,21,99096,Periférico Oaxaca,Condesa,52056-8466
+00173,720,91696,Coyoacán,5,63384,Andador Lerma,Centro,32471-2886
+00174,50,67128,Miguel Hidalgo,7,11941,Andador Sonora,Roma Norte,32100-8277
+00175,509,37575,Iztapalapa,38,70737,Callejón Archuleta,Narvarte,50626
+00176,935,94080,Coyoacán,1,86004,Privada Maya,Del Valle,33797
+00177,921,67055,Benito Juárez,13,30069,Continuación Bravo,Del Valle,73278-0131
+00178,940,48405,Miguel Hidalgo,3,43167,Avenida Tlaxcala,Centro,23249-0287
+00179,816,11473,Cuauhtémoc,26,47986,Corredor Peña,Roma Norte,64876-8405
+00180,423,82436,Miguel Hidalgo,27,33435,Prolongación Guanajuato,Centro,31777
+00181,248,92015,Coyoacán,22,36457,Callejón Tlaxcala,Narvarte,66375-0355
+00182,119,50059,Cuauhtémoc,16,83526,Peatonal Chile,Narvarte,26185
+00183,346,38187,Coyoacán,17,81471,Andador Oaxaca,Centro,16903-9392
+00184,641,22722,Miguel Hidalgo,48,16912,Peatonal Georgia,Centro,97635
+00185,692,70874,Cuauhtémoc,49,86375,Continuación Norte Santacruz,Centro,43965-2946
+00186,959,13547,Benito Juárez,24,19117,Viaducto Haro,Del Valle,89116-9531
+00187,62,95033,Miguel Hidalgo,11,32534,Callejón Martínez,Condesa,62073
+00188,25,30882,Coyoacán,35,54005,Boulevard Malta,Centro,71908-6916
+00189,841,45198,Coyoacán,10,83761,Circuito Hidalgo,Condesa,52288-2560
+00190,533,36361,Cuauhtémoc,37,27990,Callejón Jalisco,Condesa,49578
+00191,175,26751,Iztapalapa,14,59377,Andador Australia,Roma Norte,13701-2165
+00192,330,28802,Iztapalapa,41,50472,Callejón Iraq,Centro,74446
+00193,688,35331,Benito Juárez,46,80431,Privada Uzbekistán,Del Valle,59568
+00194,346,30763,Coyoacán,41,83430,Peatonal Saint Kitts y Nevis,Roma Norte,77773
+00195,332,59451,Cuauhtémoc,13,81036,Periférico Michoacán de Ocampo,Narvarte,62169
+00196,11,29281,Miguel Hidalgo,50,93379,Eje vial Palau,Centro,43375-7747
+00197,140,61832,Miguel Hidalgo,33,39689,Periférico Comoras,Condesa,88288
+00198,409,41137,Cuauhtémoc,37,40885,Boulevard Tamaulipas,Centro,15643
+00199,73,97685,Benito Juárez,25,32018,Peatonal Líbano,Del Valle,12409-3944
+00200,484,67424,Iztapalapa,31,14485,Prolongación Sur Campos,Centro,85083-0513
+00201,518,67391,Benito Juárez,45,96234,Eje vial Jalisco,Narvarte,60350
+00202,961,29998,Miguel Hidalgo,34,52680,Eje vial Sonora,Roma Norte,95771-8549
+00203,143,57211,Cuauhtémoc,12,45323,Periférico Jiménez,Roma Norte,65637
+00204,456,54230,Iztapalapa,6,66441,Prolongación Eritrea,Condesa,34423-4547
+00205,892,25307,Benito Juárez,44,58529,Ampliación Puebla,Del Valle,63479-3991
+00206,706,36442,Coyoacán,36,34405,Corredor de la Garza,Condesa,15244
+00207,231,31518,Benito Juárez,25,10987,Circuito Norte Zavala,Roma Norte,79375
+00208,516,34091,Coyoacán,14,15182,Corredor Nigeria,Centro,56477
+00209,114,35976,Miguel Hidalgo,45,99055,Circuito Hurtado,Del Valle,48613
+00210,406,12228,Iztapalapa,6,35406,Pasaje Santa Lucía,Del Valle,56143
+00211,171,32842,Iztapalapa,50,59606,Viaducto Sur Luevano,Narvarte,88760-8446
+00212,244,55412,Benito Juárez,17,70179,Pasaje Chiapas,Roma Norte,76630
+00213,621,69409,Coyoacán,14,86577,Prolongación Mata,Condesa,09112
+00214,278,14302,Iztapalapa,11,89118,Avenida Norte Burgos,Narvarte,00038
+00215,385,55349,Benito Juárez,8,54937,Continuación Guerrero,Narvarte,65553-9977
+00216,810,58997,Benito Juárez,9,94355,Eje vial México,Narvarte,78352-6371
+00217,15,38202,Cuauhtémoc,34,40839,Eje vial Gollum,Centro,77118
+00218,606,93211,Cuauhtémoc,19,23807,Periférico Norte Abrego,Centro,20924
+00219,296,58787,Miguel Hidalgo,34,15105,Diagonal Nuevo León,Del Valle,06219
+00220,875,46796,Coyoacán,49,89695,Prolongación México,Roma Norte,93940
+00221,701,50253,Miguel Hidalgo,12,27707,Avenida Sur Chávez,Centro,26462
+00222,675,10737,Cuauhtémoc,22,48065,Calle Tamaulipas,Narvarte,24748
+00223,305,89243,Benito Juárez,15,90602,Boulevard San Luis Potosí,Centro,25726
+00224,725,48046,Benito Juárez,23,91276,Boulevard Sudáfrica,Condesa,05737
+00225,800,31116,Coyoacán,48,18756,Privada Yucatán,Centro,55952-3798
+00226,303,81456,Miguel Hidalgo,18,88182,Andador Franco,Roma Norte,59067-3504
+00227,918,98122,Miguel Hidalgo,34,36225,Continuación Sur Quiñones,Centro,54845
+00228,956,61054,Miguel Hidalgo,4,71101,Retorno Oaxaca,Condesa,06353-9874
+00229,867,83461,Benito Juárez,2,68280,Ampliación Norte Trejo,Del Valle,99517
+00230,970,81180,Benito Juárez,34,53039,Periférico Sur Valenzuela,Condesa,29292-8332
+00231,749,73763,Cuauhtémoc,17,73287,Boulevard Sur Vargas,Narvarte,37016
+00232,518,57041,Benito Juárez,31,50503,Corredor Norte Arellano,Del Valle,47683
+00233,142,20457,Cuauhtémoc,41,28606,Peatonal Sur Juárez,Centro,75158-5322
+00234,813,27753,Iztapalapa,49,88884,Circuito Norte Nieves,Condesa,33063-2830
+00235,182,80752,Miguel Hidalgo,29,35401,Calzada Malta,Del Valle,14052-6707
+00236,204,41032,Cuauhtémoc,1,12091,Continuación Ecuador,Centro,27411-1099
+00237,55,80172,Benito Juárez,25,48498,Prolongación Gutiérrez,Condesa,08992
+00238,659,49172,Cuauhtémoc,7,78469,Prolongación Estonia,Del Valle,27898
+00239,656,58468,Coyoacán,39,60840,Boulevard Sur Navarro,Roma Norte,07597-7087
+00240,838,97808,Iztapalapa,39,24443,Privada Granado,Del Valle,17097
+00241,403,54021,Iztapalapa,10,94743,Eje vial Sinaloa,Del Valle,19353-0055
+00242,537,84815,Coyoacán,18,64038,Eje vial de la Torre,Roma Norte,90768-6668
+00243,103,63463,Iztapalapa,49,81141,Continuación Guerrero,Condesa,08714
+00244,5,70958,Miguel Hidalgo,5,85151,Periférico Querétaro,Roma Norte,71592
+00245,381,96678,Iztapalapa,45,29718,Retorno Barajas,Narvarte,13155-1554
+00246,573,31361,Cuauhtémoc,47,94170,Continuación Norte Prieto,Condesa,79282
+00247,383,20725,Miguel Hidalgo,36,64511,Circunvalación Rumania,Del Valle,47314
+00248,30,48540,Coyoacán,5,38847,Pasaje Jamaica,Narvarte,37997
+00249,624,48845,Iztapalapa,48,45766,Avenida Baja California Sur,Centro,29942
+00250,880,81960,Benito Juárez,31,11891,Diagonal Sur Gamboa,Narvarte,54266
+00251,468,62289,Coyoacán,24,82469,Ampliación Acosta,Del Valle,35440-7360
+00252,944,41446,Coyoacán,34,13958,Privada Paraguay,Narvarte,57633
+00253,611,98662,Coyoacán,28,40107,Avenida Sur Vega,Del Valle,45834
+00254,581,46437,Benito Juárez,45,54652,Peatonal Zúñiga,Roma Norte,87468
+00255,477,12951,Coyoacán,45,88097,Circuito Norte Garica,Centro,94447-7616
+00256,126,15777,Iztapalapa,25,42136,Viaducto Godínez,Roma Norte,79415
+00257,710,67076,Iztapalapa,7,79563,Callejón Sinaloa,Condesa,98607
+00258,757,12402,Coyoacán,9,10453,Calzada Beltrán,Roma Norte,32665-2993
+00259,226,11966,Coyoacán,43,18103,Periférico Sur Cortez,Del Valle,53910-3234
+00260,883,69177,Benito Juárez,4,28904,Calzada Barrios,Roma Norte,93178-2887
+00261,188,71123,Iztapalapa,41,64768,Continuación Chavarría,Del Valle,00806-2946
+00262,653,31513,Coyoacán,4,39185,Ampliación Jalisco,Narvarte,52974-2383
+00263,634,53811,Benito Juárez,47,75580,Ampliación Norte López,Narvarte,72258-2189
+00264,784,65546,Miguel Hidalgo,31,15435,Callejón México,Condesa,84659
+00265,108,58855,Coyoacán,31,73462,Boulevard Coahuila de Zaragoza,Narvarte,34791-0521
+00266,896,42471,Cuauhtémoc,44,89658,Andador Riojas,Centro,27308-8509
+00267,845,78303,Cuauhtémoc,10,32891,Retorno Portugal,Centro,56835-4611
+00268,620,74221,Miguel Hidalgo,28,70425,Continuación Villa,Roma Norte,91635
+00269,976,93882,Miguel Hidalgo,7,65257,Privada Benin,Del Valle,00466
+00270,836,76037,Miguel Hidalgo,17,68178,Retorno Quintana Roo,Condesa,55316
+00271,473,14615,Coyoacán,39,65278,Retorno Báez,Centro,63481
+00272,655,25143,Benito Juárez,38,16128,Pasaje Turkmenistán,Condesa,29983
+00273,92,42856,Cuauhtémoc,31,45421,Pasaje Tejeda,Centro,50439-2094
+00274,523,50489,Cuauhtémoc,6,97465,Boulevard Ibarra,Condesa,27636-4212
+00275,746,71978,Benito Juárez,40,62575,Calzada Norte Mejía,Condesa,88840-3788
+00276,6,58454,Benito Juárez,34,45705,Avenida Hidalgo,Condesa,33808
+00277,759,61797,Benito Juárez,38,15444,Peatonal Urbina,Condesa,04928-4806
+00278,139,81330,Coyoacán,30,85233,Privada Venezuela,Narvarte,65997-8544
+00279,558,79937,Benito Juárez,39,91288,Privada Niger,Del Valle,01634-7331
+00280,402,68912,Iztapalapa,28,32298,Diagonal Sur Carrera,Del Valle,05307
+00281,71,82496,Benito Juárez,50,47581,Pasaje Coahuila de Zaragoza,Centro,00280-6389
+00282,719,87658,Coyoacán,4,53450,Periférico Sur Morales,Del Valle,51650
+00283,615,48603,Iztapalapa,32,18355,Pasaje Gutiérrez,Centro,98000
+00284,701,83175,Cuauhtémoc,16,72265,Circunvalación Norte Jaime,Centro,44516
+00285,505,33743,Benito Juárez,29,33939,Eje vial Comoras,Condesa,46989
+00286,330,92187,Benito Juárez,21,83135,Circunvalación Navarrete,Del Valle,55539-8606
+00287,891,64472,Iztapalapa,1,47392,Andador Argentina,Roma Norte,64122-7398
+00288,647,32517,Miguel Hidalgo,36,21507,Calle Islas Salomón,Condesa,97562-7476
+00289,64,33064,Iztapalapa,12,62486,Boulevard Esparza,Narvarte,87130
+00290,109,54365,Miguel Hidalgo,11,45815,Prolongación Campeche,Condesa,75868
+00291,299,48017,Iztapalapa,41,43975,Periférico Noruega,Condesa,67082
+00292,740,57755,Cuauhtémoc,26,88703,Avenida Bangladesh,Condesa,91012-7760
+00293,138,10391,Miguel Hidalgo,35,45705,Callejón Valentín,Roma Norte,40023-9639
+00294,733,68887,Benito Juárez,19,16504,Prolongación Miranda,Centro,10172-3055
+00295,601,91913,Cuauhtémoc,46,55142,Viaducto Sur Farías,Del Valle,65544
+00296,294,10217,Miguel Hidalgo,13,94937,Eje vial Sur Mojica,Condesa,56002
+00297,738,58033,Cuauhtémoc,5,25775,Continuación Norte Pantoja,Centro,20299
+00298,813,42333,Coyoacán,31,69185,Diagonal Norte Tórrez,Condesa,63554
+00299,231,56151,Miguel Hidalgo,4,94143,Diagonal Amador,Roma Norte,33063
+00300,218,18703,Coyoacán,20,21825,Calle Honduras,Condesa,48366-8442
+00301,20,39411,Benito Juárez,16,88145,Calzada Norte Carbajal,Narvarte,05769-2665
+00302,103,91613,Cuauhtémoc,49,47711,Callejón Chiapas,Condesa,90472-6866
+00303,69,34341,Iztapalapa,15,91206,Prolongación Chacón,Del Valle,92608-5139
+00304,104,74250,Cuauhtémoc,47,18154,Corredor Aguascalientes,Del Valle,88635-3442
+00305,123,24775,Miguel Hidalgo,42,52278,Andador Luxemburgo,Condesa,13291
+00306,521,33183,Cuauhtémoc,3,43878,Privada Ornelas,Narvarte,01835-1710
+00307,585,31173,Miguel Hidalgo,1,67243,Periférico Abrego,Centro,87830-7918
+00308,531,17744,Coyoacán,18,40020,Circunvalación Sur Quintero,Del Valle,99133-7555
+00309,393,47057,Miguel Hidalgo,30,60057,Periférico Sur Carmona,Centro,31734-2239
+00310,43,84685,Coyoacán,18,21149,Diagonal Nayarit,Condesa,54854-3520
+00311,456,28698,Benito Juárez,30,13259,Pasaje Namibia,Centro,43775
+00312,644,72647,Iztapalapa,7,72424,Calle Camboya,Narvarte,77471-9084
+00313,96,29254,Cuauhtémoc,19,39236,Calle Nuevo León,Condesa,15922
+00314,877,66520,Benito Juárez,43,87716,Diagonal Ramírez,Narvarte,47503-1270
+00315,791,82867,Iztapalapa,33,37439,Viaducto Lesotho,Narvarte,34256
+00316,300,99162,Iztapalapa,31,42669,Peatonal Sur Martínez,Centro,59391
+00317,730,13833,Miguel Hidalgo,14,67119,Prolongación Norte Campos,Narvarte,27599-9995
+00318,132,80854,Coyoacán,6,99977,Avenida Liechtenstein,Condesa,64957
+00319,669,54895,Cuauhtémoc,41,30779,Avenida Côte d'Ivoire,Narvarte,16016
+00320,165,45090,Coyoacán,36,67946,Boulevard Mascareñas,Condesa,26551
+00321,797,86874,Benito Juárez,33,88763,Continuación Mayorga,Centro,04156
+00322,594,39951,Iztapalapa,14,56946,Avenida Casillas,Roma Norte,90939
+00323,978,11332,Cuauhtémoc,38,91021,Diagonal Jalisco,Narvarte,77547-3330
+00324,723,29677,Iztapalapa,34,70473,Pasaje Sur Casillas,Centro,15163-8134
+00325,364,43330,Coyoacán,5,58363,Avenida Sur Barragán,Centro,56685-9809
+00326,772,43042,Cuauhtémoc,31,62844,Calle Norte Yáñez,Roma Norte,87607-6684
+00327,943,55106,Cuauhtémoc,38,99410,Ampliación Sur Almonte,Roma Norte,13346-9599
+00328,525,63592,Miguel Hidalgo,21,63517,Avenida Sur de León,Narvarte,21305
+00329,471,70905,Benito Juárez,24,33728,Retorno Sur Grijalva,Condesa,45845
+00330,705,23177,Miguel Hidalgo,37,96362,Prolongación Eslovaquia,Centro,37063-0619
+00331,55,74672,Miguel Hidalgo,20,84951,Ampliación Muro,Centro,11613-7692
+00332,974,97716,Cuauhtémoc,30,88483,Calle Zacatecas,Condesa,48781-9960
+00333,52,71638,Iztapalapa,15,50289,Avenida Norte Cornejo,Roma Norte,08344-6814
+00334,322,13471,Iztapalapa,49,19889,Boulevard Niger,Centro,57606
+00335,90,21856,Miguel Hidalgo,44,50874,Viaducto Apodaca,Centro,79709-6729
+00336,769,39178,Benito Juárez,1,97794,Boulevard Norte Coronado,Centro,31487
+00337,996,92515,Miguel Hidalgo,25,29353,Diagonal Albania,Condesa,01107-7912
+00338,581,22987,Benito Juárez,40,82573,Avenida Norte Acevedo,Centro,42430-5817
+00339,133,13786,Benito Juárez,3,65271,Continuación Lucio,Del Valle,47629
+00340,822,79440,Cuauhtémoc,4,56283,Periférico España,Del Valle,33545
+00341,991,50699,Benito Juárez,19,16311,Prolongación Rivera,Narvarte,53455
+00342,413,87022,Miguel Hidalgo,25,49460,Andador Oaxaca,Condesa,36559
+00343,639,86400,Benito Juárez,37,35500,Viaducto Sur Orozco,Centro,73568
+00344,821,60835,Miguel Hidalgo,11,55812,Circunvalación Norte Villanueva,Del Valle,78347-1359
+00345,636,19402,Iztapalapa,4,76129,Privada Godínez,Narvarte,68360-0615
+00346,919,38437,Miguel Hidalgo,45,37154,Calzada Mojica,Roma Norte,25207-1053
+00347,353,75025,Miguel Hidalgo,40,92969,Eje vial Narváez,Roma Norte,90177
+00348,441,99914,Coyoacán,47,15071,Retorno Tuvalu,Roma Norte,06517-2165
+00349,140,21969,Iztapalapa,20,56258,Diagonal Sur Saldaña,Centro,00393-0634
+00350,314,16512,Benito Juárez,47,45832,Calzada Sur Nava,Roma Norte,87866
+00351,367,23517,Miguel Hidalgo,43,25534,Calle Tamaulipas,Narvarte,28575-8360
+00352,595,33503,Cuauhtémoc,4,40059,Boulevard Irlanda,Condesa,38766
+00353,188,98458,Miguel Hidalgo,40,34351,Corredor Colombia,Centro,73510-9266
+00354,201,81413,Benito Juárez,19,69273,Peatonal Sur Mondragón,Centro,31262
+00355,74,67050,Iztapalapa,36,22187,Calzada Gracia,Condesa,42849
+00356,139,88337,Benito Juárez,9,65826,Periférico Sur Puente,Narvarte,13457-2156
+00357,272,78725,Cuauhtémoc,27,37806,Andador Nuevo León,Centro,91126
+00358,946,32781,Iztapalapa,24,28593,Andador Guerrero,Del Valle,57277-9639
+00359,911,44072,Miguel Hidalgo,5,37454,Eje vial Sonora,Del Valle,04028
+00360,372,60215,Coyoacán,11,90258,Pasaje Norte Santacruz,Centro,03551-6332
+00361,803,58264,Cuauhtémoc,46,31376,Boulevard Norte Henríquez,Condesa,25296-4981
+00362,900,85749,Iztapalapa,18,95522,Boulevard Puebla,Condesa,53612-0211
+00363,198,67631,Benito Juárez,13,59293,Cerrada Aguilar,Del Valle,40312-2114
+00364,916,96205,Coyoacán,17,52105,Avenida Irán,Roma Norte,83886-9401
+00365,906,47972,Miguel Hidalgo,50,39766,Privada Cazares,Roma Norte,13785-8660
+00366,984,81906,Miguel Hidalgo,45,70971,Viaducto Azerbaiyán,Narvarte,93037-6181
+00367,949,93906,Iztapalapa,43,72926,Periférico Henríquez,Roma Norte,54490
+00368,739,34269,Miguel Hidalgo,30,15621,Calzada Grecia,Del Valle,44278-2447
+00369,539,57761,Cuauhtémoc,32,25779,Avenida Montenegro,Roma Norte,30074-9376
+00370,855,12591,Iztapalapa,2,67587,Cerrada Mateo,Roma Norte,05610-2217
+00371,526,29187,Iztapalapa,4,14896,Circunvalación Regalado,Narvarte,65500-2023
+00372,8,80908,Coyoacán,39,15560,Retorno Gonzales,Narvarte,14959
+00373,576,15103,Cuauhtémoc,11,67507,Pasaje Etiopía,Condesa,05837
+00374,313,52809,Iztapalapa,17,77115,Periférico Quintana Roo,Del Valle,71412
+00375,545,32789,Iztapalapa,38,33096,Viaducto Afganistán,Centro,63544
+00376,879,86877,Cuauhtémoc,23,38503,Retorno Terán,Centro,23616-1920
+00377,301,78684,Cuauhtémoc,23,79669,Continuación Antigua y Barbuda,Centro,16779
+00378,11,31018,Miguel Hidalgo,43,65961,Circunvalación Acevedo,Del Valle,24952-1224
+00379,456,40076,Iztapalapa,25,39200,Circunvalación Rojas,Del Valle,14839-5151
+00380,948,36374,Iztapalapa,14,37327,Cerrada Kirguistán,Roma Norte,92174-3693
+00381,433,75639,Coyoacán,40,25527,Boulevard Hidalgo,Condesa,50359
+00382,69,63353,Iztapalapa,25,43242,Circuito Irlanda,Del Valle,18997
+00383,613,45579,Cuauhtémoc,50,91323,Continuación Norte Guillen,Condesa,74398-0984
+00384,274,92663,Iztapalapa,12,75827,Eje vial Israel,Del Valle,08670-8442
+00385,408,96108,Coyoacán,31,12212,Calle Mozambique,Del Valle,44542
+00386,582,88296,Miguel Hidalgo,12,78730,Privada Sinaloa,Centro,22133
+00387,233,16168,Coyoacán,1,47211,Andador Corrales,Del Valle,93953
+00388,156,13266,Benito Juárez,22,59724,Calle Mali,Condesa,83300
+00389,867,61738,Miguel Hidalgo,6,59691,Andador Sur Segura,Condesa,11476-6645
+00390,408,67754,Coyoacán,19,34105,Diagonal Nueva Zelandia,Narvarte,67338-0670
+00391,45,51062,Miguel Hidalgo,3,36766,Calle Chihuahua,Del Valle,59618-8137
+00392,7,17067,Miguel Hidalgo,5,91153,Andador Qatar,Narvarte,17695
+00393,178,43504,Iztapalapa,43,30660,Avenida Lucero,Roma Norte,08823
+00394,685,54108,Coyoacán,15,17028,Retorno Orellana,Centro,52497
+00395,166,20145,Coyoacán,39,99940,Cerrada Norte Galarza,Narvarte,91055-7602
+00396,783,44138,Coyoacán,31,63572,Circunvalación Sur Carreón,Condesa,68689-6776
+00397,370,76052,Benito Juárez,13,79441,Retorno Mauritania,Centro,54567
+00398,21,70110,Iztapalapa,50,96892,Callejón Pichardo,Narvarte,73704-0883
+00399,49,81609,Miguel Hidalgo,23,57432,Circuito Salinas,Del Valle,21267-9957
+00400,509,51770,Iztapalapa,10,12856,Eje vial Santo Tomé y Príncipe,Roma Norte,90671
+00401,73,78437,Coyoacán,36,72544,Peatonal Soto,Narvarte,49560
+00402,521,16641,Benito Juárez,42,41927,Calzada Espino,Narvarte,78766
+00403,363,82175,Benito Juárez,4,75538,Retorno Mauritania,Narvarte,45607-7996
+00404,345,41913,Cuauhtémoc,48,14472,Viaducto Durango,Roma Norte,42385
+00405,898,95154,Miguel Hidalgo,41,79771,Ampliación Sur Montez,Centro,20200-5673
+00406,289,11427,Cuauhtémoc,2,68608,Circunvalación Sur Valle,Roma Norte,99951-3301
+00407,712,12294,Coyoacán,26,39208,Periférico Sur Solorzano,Narvarte,70719
+00408,279,12844,Iztapalapa,35,15190,Pasaje Baja California,Del Valle,74294-4233
+00409,219,20436,Miguel Hidalgo,24,38389,Circuito Sur Dueñas,Condesa,79708
+00410,735,29338,Iztapalapa,42,48839,Avenida Aguirre,Narvarte,91651
+00411,640,69803,Benito Juárez,36,36337,Cerrada Mauritania,Narvarte,25582-5460
+00412,705,79918,Miguel Hidalgo,8,45512,Callejón Quintana Roo,Centro,72823
+00413,487,63256,Miguel Hidalgo,8,62306,Calle Tlaxcala,Condesa,13507-3573
+00414,140,39779,Coyoacán,42,10525,Cerrada Vanuatu,Narvarte,92627-1787
+00415,926,57326,Miguel Hidalgo,1,46270,Retorno Croacia,Roma Norte,42946-5467
+00416,710,55715,Benito Juárez,9,14847,Periférico Tijerina,Centro,29666-7548
+00417,789,57998,Miguel Hidalgo,19,89037,Prolongación Norte Valadez,Narvarte,52413-6767
+00418,482,99267,Benito Juárez,49,37330,Retorno Norte Melgar,Narvarte,50885-4084
+00419,312,10142,Miguel Hidalgo,18,78786,Boulevard Sur Henríquez,Roma Norte,45937-5828
+00420,721,69830,Coyoacán,42,41139,Boulevard Sur Uribe,Narvarte,72059-7768
+00421,361,52811,Coyoacán,24,55398,Avenida Castillo,Condesa,32950-3970
+00422,882,16893,Benito Juárez,3,77067,Corredor Nayarit,Del Valle,34760-3508
+00423,243,82255,Benito Juárez,6,96321,Privada Canales,Centro,24280
+00424,597,32745,Coyoacán,16,19071,Diagonal Almanza,Del Valle,71401
+00425,858,22799,Cuauhtémoc,11,50605,Diagonal Norte Apodaca,Narvarte,12685-0550
+00426,356,49025,Benito Juárez,7,50768,Viaducto Quesada,Del Valle,46152
+00427,447,64318,Benito Juárez,20,45983,Privada Yucatán,Narvarte,73486-7155
+00428,912,76127,Cuauhtémoc,33,77301,Andador Limón,Narvarte,22171
+00429,374,98740,Miguel Hidalgo,45,64788,Calle Estrada,Roma Norte,53469-2005
+00430,644,50051,Cuauhtémoc,2,96790,Viaducto República Checa,Condesa,86125-6128
+00431,112,85762,Miguel Hidalgo,23,19630,Andador Oquendo,Condesa,78003-6012
+00432,81,87079,Miguel Hidalgo,38,87683,Privada Norte Garica,Narvarte,37040
+00433,9,96373,Miguel Hidalgo,31,11017,Boulevard Norte Avilés,Del Valle,20978
+00434,482,23711,Cuauhtémoc,21,66921,Retorno Norte Robledo,Condesa,70208
+00435,216,44920,Miguel Hidalgo,22,78342,Peatonal Sierra Leona,Narvarte,55021-0773
+00436,972,75819,Benito Juárez,40,88887,Pasaje Guinea,Narvarte,32854-6385
+00437,762,25215,Iztapalapa,6,32059,Circunvalación Sur Rentería,Centro,70875-4034
+00438,104,68626,Benito Juárez,41,71508,Retorno Villanueva,Roma Norte,10063-1572
+00439,909,62943,Coyoacán,47,83411,Diagonal Baja California Sur,Del Valle,75702
+00440,940,76896,Benito Juárez,27,40345,Peatonal Bustos,Roma Norte,01545
+00441,103,80955,Iztapalapa,39,99801,Periférico Norte Alarcón,Centro,60985
+00442,408,15886,Iztapalapa,20,59219,Diagonal Alemania,Condesa,93336
+00443,674,13276,Miguel Hidalgo,26,83930,Peatonal Sur Sierra,Roma Norte,46304
+00444,126,64398,Coyoacán,39,12514,Circuito Sur Toro,Del Valle,14953-6463
+00445,454,45000,Miguel Hidalgo,20,89312,Andador Soria,Condesa,44603
+00446,302,21111,Coyoacán,10,70433,Cerrada Valle,Roma Norte,55422-9971
+00447,49,17561,Benito Juárez,43,40210,Circuito Puebla,Condesa,52400-9471
+00448,220,66279,Benito Juárez,6,68772,Privada Letonia,Roma Norte,65950-8982
+00449,339,66881,Coyoacán,8,19914,Periférico Terán,Condesa,13342-9537
+00450,919,31233,Miguel Hidalgo,17,62113,Circunvalación Austria,Roma Norte,23160-2660
+00451,333,48002,Cuauhtémoc,17,32086,Periférico Coahuila de Zaragoza,Roma Norte,21276
+00452,271,47449,Cuauhtémoc,10,61262,Callejón Dueñas,Del Valle,86226
+00453,67,61716,Coyoacán,42,91869,Privada Durango,Roma Norte,94147-9492
+00454,884,78447,Benito Juárez,28,76386,Cerrada Norte Ulibarri,Narvarte,13508
+00455,773,48893,Miguel Hidalgo,7,41945,Eje vial Benavídez,Condesa,17765
+00456,257,94715,Benito Juárez,47,37968,Viaducto Mali,Narvarte,45362-0066
+00457,696,39708,Miguel Hidalgo,4,59588,Calzada Henríquez,Narvarte,03248
+00458,780,17606,Coyoacán,11,87404,Cerrada Nieto,Centro,53735
+00459,5,87693,Cuauhtémoc,15,81056,Avenida Puebla,Narvarte,85053-4064
+00460,831,15454,Cuauhtémoc,47,91319,Prolongación Marrero,Centro,81585-8382
+00461,255,26930,Iztapalapa,30,55469,Callejón Sur Villarreal,Roma Norte,15365
+00462,234,39984,Coyoacán,27,15877,Pasaje Colima,Centro,47437-4548
+00463,964,50091,Iztapalapa,34,61904,Diagonal Sur Limón,Condesa,73908
+00464,506,24597,Cuauhtémoc,16,15871,Prolongación Oaxaca,Narvarte,57888
+00465,764,61517,Miguel Hidalgo,20,61654,Prolongación Solorio,Condesa,19471-8987
+00466,967,54783,Iztapalapa,49,80169,Circuito Norte Cisneros,Del Valle,15031
+00467,666,57404,Benito Juárez,38,20792,Privada Norte Armendáriz,Condesa,46235
+00468,399,20476,Iztapalapa,10,52948,Prolongación Veracruz de Ignacio de la Llave,Centro,04613
+00469,141,96340,Benito Juárez,26,28067,Diagonal Vigil,Del Valle,10137-9429
+00470,906,70906,Miguel Hidalgo,15,91400,Andador Barela,Del Valle,21442
+00471,639,58544,Miguel Hidalgo,43,76321,Diagonal Alvarez,Condesa,15260-8258
+00472,798,40594,Miguel Hidalgo,4,44490,Andador Tabasco,Condesa,87910-4112
+00473,434,87893,Iztapalapa,10,62187,Eje vial Sur Apodaca,Del Valle,12753-4419
+00474,708,37261,Miguel Hidalgo,34,26287,Calle Guinea,Centro,88379
+00475,277,83310,Iztapalapa,36,65110,Diagonal Norte Escobedo,Narvarte,56488
+00476,324,44792,Coyoacán,45,76587,Circuito Yucatán,Narvarte,23195
+00477,124,89952,Miguel Hidalgo,42,46124,Corredor Norte Sauceda,Centro,39173-1805
+00478,680,12969,Iztapalapa,24,19565,Boulevard Guatemala,Condesa,77512-9993
+00479,695,42795,Miguel Hidalgo,41,53303,Avenida Medina,Narvarte,06820-8427
+00480,451,25978,Miguel Hidalgo,50,40603,Retorno Cordero,Condesa,41055-0174
+00481,838,58032,Benito Juárez,23,89004,Circuito Sur Tejeda,Roma Norte,56077
+00482,262,42668,Benito Juárez,6,23479,Pasaje Veracruz de Ignacio de la Llave,Condesa,18504
+00483,844,69677,Cuauhtémoc,38,86676,Boulevard Norte Urías,Roma Norte,66742
+00484,257,94661,Benito Juárez,16,95508,Eje vial Cabo Verde,Centro,86987-0278
+00485,696,80228,Cuauhtémoc,37,51423,Prolongación Gurule,Narvarte,76034
+00486,942,13235,Cuauhtémoc,3,51846,Diagonal Salcedo,Condesa,97726-8048
+00487,429,55959,Benito Juárez,17,10276,Boulevard Norte Alba,Roma Norte,59286-9319
+00488,42,76870,Benito Juárez,15,31471,Continuación Yucatán,Narvarte,31148-7265
+00489,250,24197,Iztapalapa,9,57891,Periférico ex República Yugoslava de Macedonia,Roma Norte,86650-3193
+00490,212,12033,Miguel Hidalgo,43,22073,Cerrada Vélez,Centro,41008
+00491,113,73787,Miguel Hidalgo,19,99894,Avenida Hidalgo,Del Valle,12033
+00492,96,85737,Benito Juárez,26,63774,Privada Nuevo León,Centro,24162-8030
+00493,179,14213,Iztapalapa,36,52088,Pasaje Norte Figueroa,Roma Norte,52661-0125
+00494,401,25478,Cuauhtémoc,9,91234,Periférico Prieto,Centro,04387
+00495,11,90964,Miguel Hidalgo,49,27881,Callejón Norte Sosa,Del Valle,71535-3908
+00496,989,39248,Coyoacán,11,55612,Ampliación Países Bajos,Narvarte,19038-9406
+00497,952,68776,Iztapalapa,36,65167,Viaducto Kazajstán,Narvarte,09654-1233
+00498,409,74529,Miguel Hidalgo,32,53665,Circunvalación Michoacán de Ocampo,Condesa,83175
+00499,891,72373,Iztapalapa,1,75112,Retorno Sur Cardenas,Del Valle,55819-7925
+00500,287,69320,Iztapalapa,47,17409,Retorno Norte Zepeda,Narvarte,25592-7923
